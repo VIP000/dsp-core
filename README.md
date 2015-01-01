@@ -31,3 +31,33 @@ In a nutshell, DreamFactory enables developers to quickly hook up a wide variety
 * All pull requests must be in a ["git flow"](https://github.com/nvie/gitflow) feature branch to be considered.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+DreamFactory服务平台（TM）核心服务器v1.8.2
+
+小胶质最新的稳定版累计下载最新版本不稳定许可证
+
+这是DreamFactory服务平台酷睿™Server存储库。它包含了必要的运行系统的核心网络组件。该代码可以在Apache2.0版授权使用。
+
+请访问我们的wiki详细的平台和API文档。
+
+说明在各种环境中安装DreamFactory
+
+当前和过去的版本中更改日志
+
+概观
+
+DreamFactory是一个开源软件包，它提供了移动企业应用程序开发的REST API。你能想到DreamFactory作为服务器中间件连接的移动设备，诸如手机和片剂，到后端数据（SQL，NoSQL的，和文件存储）与代表性状态传输（REST）API。
+
+客户端设备，使REST调用DreamFactory能手机，平板电脑，以及“物联网”，如传感器。桌面应用程序和Web应用程序也可以让REST API调用DreamFactory。
+
+后端数据源DreamFactory的量DreamFactory自动生成的REST API包括每个主要SQL数据库，NoSQL的数据库和文件存储系统。 SQL可能是最显著和企业广泛实施，根据最近的一项调查反馈。
+
+DreamFactory还可以轻松安全地使用远程web服务，包括你自己编写自定义Web服务。
+
+简而言之，DreamFactory使开发人员能够快速挂接各种后端系统，并以这些资产的RESTful服务的综合调色板暴露。在REST API允许客户端 - 服务器的分离，简化了组件的实现，降低了连接的复杂性，提高了性能优化，并增加服务器端组件的可伸缩性。
+
+反馈和贡献
+
+反馈是欢迎拉动请求和/或问题的形式。
+捐款一般应遵循“促进项目”中列出的策略
+所有拉请求必须是在“混帐流”特性分支加以考虑。
